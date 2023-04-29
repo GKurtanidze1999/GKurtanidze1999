@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giorgikurtanidze&label=Profile%20views&color=0e75b6&style=flat" alt="giorgikurtanidze" /> </p>
 
-- 🌱 I’m currently learning **I am presently studying ReactJS and intend to expand my knowledge by acquiring proficiency in other JS frameworks and programming languages.**
+- 🌱 **I am presently studying ReactJS and intend to expand my knowledge by acquiring proficiency in other JS frameworks and programming languages.**
 
-- 📫 How to reach me **gkourtanidze@gmail.com**
+- 📫 How to reach me? Feel free to send email at **gkourtanidze@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
